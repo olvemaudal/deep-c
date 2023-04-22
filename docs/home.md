@@ -4,6 +4,6 @@ title: Home
 permalink: /
 ---
 
-Welcome! This is a site dedicated to the journey towards a deep understanding of the C programming language.
+Welcome! This is a site dedicated to a journey towards a deeper understanding of the C programming language.
 
-This site is currently under construction, please stay tuned...
+This site is currently under construction, stay tuned...
