@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-The page is currently maintained by:
--  Olve Maudal ([website](https://olvemaudal.com))
+This site is currently maintained/currated by:
+-  Olve Maudal ([web](https://olvemaudal.com), [linkedin](https://www.linkedin.com/in/olvemaudal/), [twitter](https://twitter.com/olvemaudal))
