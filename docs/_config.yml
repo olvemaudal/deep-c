@@ -10,5 +10,5 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - home.markdown
-  - about.markdown
+  - home.md
+  - about.md
