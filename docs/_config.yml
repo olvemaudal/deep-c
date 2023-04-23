@@ -1,13 +1,14 @@
 title: Deep C
 description: >-
-  A webpage dedicated to stuff related to developing a deep understanding of
-  the C programmning language.
-baseurl: "" # the subpath of your site, e.g. /blog
+  A site to assist experienced programmers on their journey towards
+  a deeper understanding of the C programmning language.
+baseurl: ""
 url: "https://deep-c.com"
 
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 header_pages:
   - home.md
