@@ -4,5 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This site is currently maintained/currated by:
--  Olve Maudal ([web](https://olvemaudal.com), [linkedin](https://www.linkedin.com/in/olvemaudal/), [twitter](https://twitter.com/olvemaudal))
+This site is still very much under construction. The content of this site is generated from a public <a href="https://github.com/olvemaudal/deep-c">GitHub repo</a>.
