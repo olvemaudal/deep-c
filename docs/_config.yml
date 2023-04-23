@@ -12,4 +12,5 @@ plugins:
 
 header_pages:
   - home.md
+  - resources.md
   - about.md
