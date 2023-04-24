@@ -49,3 +49,4 @@ Here you find currated lists of resources worth considering to support a journey
 - [Michael Kerrisk](https://man7.org/).  Author and maintainer of the Linux man-pages. Michael has the very best courses about Linux where (of course) C is used a lot. His main book, "The Linux Programming Interface" is a masterpiece packed with high quality C code.
 - [Shafik Yaghmour](https://shafik.github.io/), compiler engineer at Intel, shares a lot about C (and C++) on [twitter](https://twitter.com/shafikyaghmour).
 - [Linus Torvalds](https://github.com/torvalds), the creator of Linux. Few have contributed more to demonstrate the power of C. Also the way Linus writes C code is worth studying. For example, the early version of the Linux kernel can be read like poetry - just wonderful and educational way of writing code.
+- [James Grenning](https://wingman-sw.com/about), author of the TDD for Embedded C book and actively teaching classes on C programming.
