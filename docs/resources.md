@@ -27,6 +27,10 @@ Here you find currated lists of resources worth considering to support a journey
 
 - [JTC1/SC22/WG14 - C](https://www.open-std.org/jtc1/sc22/wg14/) - this is the official home of the C programming language standard.
 - [Dennis M. Ritchie memorial web site](https://www.bell-labs.com/usr/dmr/www/) - Dennis M. Ritchie (rip), the creator of C, is still contributing a lot through all his writings and insights.
+- [cppreference.com](https://en.cppreference.com/w/c) - The best online reference for C++, but also for C. High quality examples, and precise wording.
+- [godbolt.org](https://godbolt.org/z/ceGWd1v5v) - A fantastic tool when you want to study C carefully. Here you can see and compare assembler code produced by different compilers and the effect of changing compilation flags or language versions.
+- [comp.lang.c FAQ](https://c-faq.com/) - a bit dated, but still very relevant FAQ about the C programming language
+- [Wikipedia](https://en.wikipedia.org/wiki/C_(programming_language)) - a very useful and usually up to date overview of the C programming language.
 
 #### Legends of C (in no particular order):
 
