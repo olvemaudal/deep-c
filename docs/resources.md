@@ -52,3 +52,15 @@ Here you find currated lists of resources worth considering to support a journey
 - [Shafik Yaghmour](https://shafik.github.io/), compiler engineer at Intel, shares a lot about C (and C++) on [twitter](https://twitter.com/shafikyaghmour).
 - [Linus Torvalds](https://github.com/torvalds), the creator of Linux. Few have contributed more to demonstrate the power of C. Also the way Linus writes C code is worth studying. For example, the early version of the Linux kernel can be read like poetry - just wonderful and educational way of writing code.
 - [James Grenning](https://wingman-sw.com/about), author of the TDD for Embedded C book and actively teaching classes on C programming.
+
+#### Historical papers/documents/reports (in no particular order):
+
+- [The Development of the C Language (1993), Dennis M. Ritchie](https://www.bell-labs.com/usr/dmr/www/chist.html) - a well written and important historical account on the early days of the C programming language
+- [The BCPL Reference Manual (1967), Martin Richards](https://www.bell-labs.com/usr/dmr/www/bcpl.pdf) - an original description of the BCPL language that was the main inspiration for B, and therefore indirectly, C
+- [Users' Reference to B (1972), Ken Thompson](https://www.bell-labs.com/usr/dmr/www/kbman.pdf) - an early description of the B programming language
+- [C Reference Manual (1975), Dennis M. Ritchi](https://www.bell-labs.com/usr/dmr/www/cman.pdf) - a reference manual to what we might call C74
+- [Programming in C - A Tutorial (1975), Brian W. Kernighan](https://www.bell-labs.com/usr/dmr/www/ctut.pdf) - an early and outdated, but still brilliant, introduction to programming in C
+
+
+
+
