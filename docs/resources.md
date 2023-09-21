@@ -64,4 +64,4 @@ Here you find currated lists of resources worth considering to support a journey
 #### Trivia and fun stuff related to C
 
 - [Recreating Dennis Ritchhie's PhD Thesis -Computerphile](https://www.youtube.com/watch?v=82TxNejKsng) - an amusing story about the unsubmitted PhD thesis by Dennis Ritchie.
-- [UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories](/https://www.youtube.com/watch?v=XvDZLjaCJuw) - C and Unix grew up together. Most of the tools that Brian talks about in this video is probably, or could have been, implemented in C.
+- [UNIX: Making Computers Easier To Use -- AT&T Archives film from 1982, Bell Laboratories](https://www.youtube.com/watch?v=XvDZLjaCJuw) - C and Unix grew up together. Most of the tools that Brian talks about in this video is probably, or could have been, implemented in C.
