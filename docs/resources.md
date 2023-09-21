@@ -61,6 +61,6 @@ Here you find currated lists of resources worth considering to support a journey
 - [C Reference Manual (1975), Dennis M. Ritchi](https://www.bell-labs.com/usr/dmr/www/cman.pdf) - a reference manual to what we might call C74
 - [Programming in C - A Tutorial (1975), Brian W. Kernighan](https://www.bell-labs.com/usr/dmr/www/ctut.pdf) - an early and outdated, but still brilliant, introduction to programming in C
 
+#### Trivia and fun stuff related to C
 
-
-
+- [Recreating Dennis Ritchhie's PhD Thesis -Computerphile](https://www.youtube.com/watch?v=82TxNejKsng) - an amusing story about the unsubmitted PhD thesis by Dennis Ritchie.
